@@ -1,2 +1,2 @@
 # calculator
-calculator for complex numbers with dynamic libraryes
+calculator for complex numbers with dynamic libraries
